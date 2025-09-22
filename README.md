@@ -1,2 +1,2 @@
 # AmazonNavbar-html
-just built a simple Amazon-inspired navbar using HTML and CSS! It features the Amazon logo, a functional search bar, and a 'My Account' section.
+Just built a simple Amazon-inspired navbar using HTML and CSS! It features the Amazon logo, a functional search bar, and a 'My Account' section.
